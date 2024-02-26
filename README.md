@@ -1,4 +1,4 @@
-# Computing Equilibria in Zero-Sum Games: Python File Descriptions
+# Computing Equilibria in Zero-Sum Games
 
 This project explores strategies and computes equilibria in various classic games using Fictitious Play (FP) and Reinforcement Learning (RL) approaches.
 
