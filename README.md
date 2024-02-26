@@ -1,1 +1,0 @@
-# Computing-equilibria-in-zero-sum-games
