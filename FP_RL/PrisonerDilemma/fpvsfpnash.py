@@ -4,11 +4,6 @@ import matplotlib.pyplot as plt
 # Game Setup for Prisoner's Dilemma
 ACTIONS = ['Cooperate', 'Defect']
 NUM_ACTIONS = len(ACTIONS)
-# Defining the payoff matrix for the Prisoner's Dilemma
-# Rows: Player 1's actions, Columns: Player 2's actions
-# [C, D]
-# C [(-1, -1), (-3, 0)]
-# D [(0, -3), (-2, -2)]
 PAYOFFS = np.array([
     [(-1, -1), (-3, 0)],  # Player 1 Cooperates
     [(0, -3), (-2, -2)]   # Player 1 Defects
